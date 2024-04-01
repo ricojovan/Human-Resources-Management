@@ -15,7 +15,7 @@
   <!-- 
     - custom css link
   -->
-  <link rel="stylesheet" href="./assets/css/style2.css">
+  <link rel="stylesheet" href="./assets/css/style1.css">
 
   <!-- 
     - google font link
@@ -129,23 +129,32 @@
           <div class="hero-content">
 
             <h2 class="hero-title">
-              <span>Hello I'm</span>
-              <strong>Ethan Ward</strong> Web Developer from New York
+              <span>Welcome to Palinis Po!</span>
+              <strong>Your Trusted<br>Home Cleaning Partner</strong>
             </h2>
 
             <p class="hero-text">
-              Adipisicing elit. Neque nulla voluptatum eos repellat deserunt nesciunt tempore porro totam.
+            At Palinis Po!, we understand the importance of a 
+            clean and organized home. Your home is your sanctuary, 
+            and it deserves the best care to maintain its beauty and comfort. 
             </p>
 
             <div class="btn-group">
-              <a href="#contact" class="btn btn-primary blue">Get a Quote</a>
+              <a href="#contact" class="btn btn-primary blue">Book Now!</a>
 
-              <a href="#about" class="btn">About Me</a>
+              <a href="#about" class="btn">About Us</a>
             </div>
 
           </div>
 
         </div>
+
+        <div class="custom-shape-divider-bottom-1711953435">
+    <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+        <path d="M985.66,92.83C906.67,72,823.78,31,743.84,14.19c-82.26-17.34-168.06-16.33-250.45.39-57.84,11.73-114,31.07-172,41.86A600.21,600.21,0,0,1,0,27.35V120H1200V95.8C1132.19,118.92,1055.71,111.31,985.66,92.83Z" class="shape-fill"></path>
+    </svg>
+</div>
+
       </section>
 
 
@@ -161,42 +170,59 @@
 
           <figure class="about-banner">
 
-            <img src="./assets/images/about-banner.jpg" width="800" height="652" loading="lazy" alt="Ethan's Photo"
+            <img src="./assets/images/about-cleaners.jpg" width="800" height="652" loading="lazy" alt="Ethan's Photo"
               class="img-cover">
 
-            <img src="./assets/images/absolute-image.jpg" width="800" height="717" loading="lazy" alt="Ethan's Photo"
+            <img src="./assets/images/about-side.jpg" width="800" height="717" loading="lazy" alt="Ethan's Photo"
               class="abs-img">
 
             <div class="abs-icon abs-icon-1">
-              <ion-icon name="logo-css3"></ion-icon>
+            <ion-icon name="leaf-outline"></ion-icon>
             </div>
 
             <div class="abs-icon abs-icon-2">
-              <ion-icon name="logo-javascript"></ion-icon>
+            <ion-icon name="location-outline"></ion-icon>
             </div>
 
             <div class="abs-icon abs-icon-3">
-              <ion-icon name="logo-angular"></ion-icon>
+            <ion-icon name="accessibility-outline"></ion-icon>
             </div>
 
           </figure>
 
           <div class="about-content">
 
-            <p class="section-subtitle">I'm a Developer</p>
+            <p class="section-subtitle">About Us</p>
 
-            <h2 class="h2 section-title">I Develop Application that Help People</h2>
+            <h2 class="h2 section-title">Why Book Your Cleaning Service With Us?</h2>
 
-            <p class="section-text">
-              Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehenderit in voluptate velit esse cillum
-              dolore eu
-              fugiat nulla pariatu epteur sint occaecat cupidatat
-            </p>
+<p class="section-text">
+  <div class="abs-icon-new abs-icon-4">
+    <ion-icon class="icon-about" name="checkmark-circle"></ion-icon>
+      Simple<br> 
+  </div>
+      Set up a regular cleaning schedule or book a one-time service.
+        <br><br>
+  <div class="abs-icon-new abs-icon-4">
+    <ion-icon class="icon-about" name="shield-checkmark"></ion-icon>
+      Highly Trusted<br>
+  </div>
+      Our cleaners are rated by other customers, so you get the best of the best
+        <br><br>
+  <div class="abs-icon-new abs-icon-4">
+    <ion-icon class="icon-about" name="home"></ion-icon>
+      Convenient<br>
+  </div>
+      You can relax knowing your cleaning team will arrive on time and leave your home sparkling.
+</p>
 
-            <p class="section-text">
-              Krnon proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde
-              omnis
-            </p>
+<br><br>
+
+<p class="section-text">
+At Palinis Po!, we are a team of dedicated professionals 
+committed to delivering top-notch cleaning services tailored 
+to meet your unique needs.
+</p>
 
             <a href="#portfolio" class="btn btn-primary blue">View Portfolio</a>
 
