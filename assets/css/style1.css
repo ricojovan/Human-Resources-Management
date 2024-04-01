@@ -365,8 +365,8 @@ body {
   font-size: 5.3rem;
   font-weight: inherit;
   margin-block-end: 8px;
-  color: #3a3a3a;
-  text-shadow: 2px 2px 4px rgba(175, 175, 175, 0.5);
+  color: #a3ddff;
+  text-shadow: 2px 2px 4px rgba(26, 26, 26, 0.575);
 }
 
 .hero-text { margin-block-end: 25px; }
@@ -440,19 +440,19 @@ body {
 
 
 /*-----------------------------------*\
-  #PORTFOLIO
+  #Services
 \*-----------------------------------*/
 
-.portfolio .section-title { margin-block-end: 18px; }
+.services .section-title { margin-block-end: 18px; }
 
-.portfolio .section-text { margin-block-end: 80px; }
+.services .section-text { margin-block-end: 80px; }
 
-.portfolio-list {
+.services-list {
   display: grid;
   gap: 60px;
 }
 
-.portfolio-card {
+.services-card {
   background-color: var(--independence);
   background-repeat: no-repeat;
   background-size: cover;
@@ -465,19 +465,19 @@ body {
   transition: var(--transition-2);
 }
 
-.portfolio-list > li:nth-child(even) .card-content { margin-inline-start: auto; }
+.services-list > li:nth-child(even) .card-content { margin-inline-start: auto; }
 
-.portfolio-card .card-subtitle {
+.services-card .card-subtitle {
   color: var(--orange-soda);
   margin-block-end: 5px;
 }
 
-.portfolio-card .card-title {
+.services-card .card-title {
   max-width: 20ch;
   margin-block-end: 20px;
 }
 
-.portfolio-card .btn-link {
+.services-card .btn-link {
   display: flex;
   align-items: center;
   gap: 5px;
@@ -485,7 +485,7 @@ body {
   text-transform: uppercase;
 }
 
-.portfolio-card .btn-link ion-icon {
+.services-card .btn-link ion-icon {
   color: var(--orange-soda);
   font-size: 1.6rem;
 }
@@ -766,10 +766,10 @@ textarea.contact-input {
 @media (min-width: 600px) {
 
   /**
-   * PORTFOLIO
+   * Services
    */
 
-  .portfolio-list li:nth-child(even) .card-content { margin-inline-start: 50%; }
+  .services-list li:nth-child(even) .card-content { margin-inline-start: 50%; }
 
 }
 
@@ -784,15 +784,15 @@ textarea.contact-input {
 @media (min-width: 768px) {
 
   /**
-   * PORTFOLIO
+   * Services
    */
 
-  .portfolio-card {
+  .services-card {
     background-size: 115%;
     padding-inline: 80px;
   }
 
-  .portfolio-card:is(:hover, :focus) { background-size: 130%; }
+  .services-card:is(:hover, :focus) { background-size: 130%; }
 
 
 
@@ -1060,12 +1060,12 @@ textarea.contact-input {
 
 
   /**
-   * PORTFOLIO
+   * Services
    */
 
-  .portfolio-card .card-subtitle { font-size: var(--fs-5); }
+  .services-card .card-subtitle { font-size: var(--fs-5); }
 
-  .portfolio-card .btn-link { --fs-6: 1.6rem; }
+  .services-card .btn-link { --fs-6: 1.6rem; }
 
 
 

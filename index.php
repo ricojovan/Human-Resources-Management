@@ -15,7 +15,7 @@
   <!-- 
     - custom css link
   -->
-  <link rel="stylesheet" href="./assets/css/style1.css">
+  <link rel="stylesheet" href="./assets/css/style2.css">
 
   <!-- 
     - google font link
@@ -57,11 +57,11 @@
           </li>
 
           <li>
-            <a href="#portfolio" class="navbar-link" data-nav-link>Where We Server</a>
+            <a href="#services" class="navbar-link" data-nav-link>Services</a>
           </li>
 
           <li>
-            <a href="#skills" class="navbar-link" data-nav-link>Services</a>
+            <a href="#skills" class="navbar-link" data-nav-link>Where We Server</a>
           </li>
 
           <li>
@@ -224,7 +224,7 @@ committed to delivering top-notch cleaning services tailored
 to meet your unique needs.
 </p>
 
-            <a href="#portfolio" class="btn btn-primary blue">View Portfolio</a>
+            <a href="#" class="btn btn-primary blue">Book Now!</a>
 
           </div>
 
@@ -236,29 +236,31 @@ to meet your unique needs.
 
 
       <!-- 
-        - #PORTFOLIO
+        - #Services
       -->
 
-      <section class="section portfolio" id="portfolio">
+      <section class="section services" id="services">
         <div class="container">
 
-          <p class="section-subtitle">Portfolio</p>
+          <p class="section-subtitle">Our Services</p>
 
-          <h2 class="h2 section-title">My Amazing Works</h2>
+          <h2 class="h2 section-title">Our Amazing Works</h2>
 
           <p class="section-text">
-            Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+          Are you looking for the right cleaning company to make your home or 
+          office look as good as new? At Palinis Po!, we come highly recommended 
+          and cover all your house and office cleaning needs, including
           </p>
 
-          <ul class="portfolio-list">
+          <ul class="services-list">
 
             <li>
-              <a href="#" class="portfolio-card" style="background-image: url('./assets/images/portfolio-1.jpg')">
+              <a href="#" class="services-card" style="background-image: url('./assets/images/services-1.jpg')">
                 <div class="card-content">
 
-                  <p class="card-subtitle">Youtube</p>
+                  <p class="card-subtitle">House Cleaning</p>
 
-                  <h3 class="h3 card-title">Web Application for Desiverse</h3>
+                  <h3 class="h3 card-title">Refresh your home with meticulous cleaning tailored to your needs.</h3>
 
                   <span class="btn-link">
                     <span>View Project</span>
@@ -271,12 +273,12 @@ to meet your unique needs.
             </li>
 
             <li>
-              <a href="#" class="portfolio-card" style="background-image: url('./assets/images/portfolio-2.jpg')">
+              <a href="#" class="services-card" style="background-image: url('./assets/images/services-2.jpg')">
                 <div class="card-content">
 
-                  <p class="card-subtitle">Vimeo</p>
+                  <p class="card-subtitle">Office Cleaning</p>
 
-                  <h3 class="h3 card-title">Web Application for Desiverse</h3>
+                  <h3 class="h3 card-title">Maintain a pristine workspace for enhanced productivity and professionalism.</h3>
 
                   <span class="btn-link">
                     <span>View Project</span>
@@ -289,12 +291,12 @@ to meet your unique needs.
             </li>
 
             <li>
-              <a href="#" class="portfolio-card" style="background-image: url('./assets/images/portfolio-3.jpg')">
+              <a href="#" class="services-card" style="background-image: url('./assets/images/services-3.jpg')">
                 <div class="card-content">
 
-                  <p class="card-subtitle">Soundcloud</p>
+                  <p class="card-subtitle">Regular Cleaning</p>
 
-                  <h3 class="h3 card-title">Web Application for Desiverse</h3>
+                  <h3 class="h3 card-title">Keep your space consistently fresh and organized with routine maintenance.</h3>
 
                   <span class="btn-link">
                     <span>View Project</span>
@@ -307,12 +309,48 @@ to meet your unique needs.
             </li>
 
             <li>
-              <a href="#" class="portfolio-card" style="background-image: url('./assets/images/portfolio-4.jpg')">
+              <a href="#" class="services-card" style="background-image: url('./assets/images/services-4.jpg')">
                 <div class="card-content">
 
-                  <p class="card-subtitle">Details</p>
+                  <p class="card-subtitle">End of Lease Cleaning</p>
 
-                  <h3 class="h3 card-title">Web Application for Desiverse</h3>
+                  <h3 class="h3 card-title">Ensure a smooth transition with a thorough cleaning service.</h3>
+
+                  <span class="btn-link">
+                    <span>View Project</span>
+
+                    <ion-icon name="arrow-forward"></ion-icon>
+                  </span>
+
+                </div>
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="services-card" style="background-image: url('./assets/images/services-5.jpg')">
+                <div class="card-content">
+
+                  <p class="card-subtitle">Deep Cleaning</p>
+
+                  <h3 class="h3 card-title">Revitalize your space with a comprehensive, detailed cleaning session.</h3>
+
+                  <span class="btn-link">
+                    <span>View Project</span>
+
+                    <ion-icon name="arrow-forward"></ion-icon>
+                  </span>
+
+                </div>
+              </a>
+            </li>
+
+            <li>
+              <a href="#" class="services-card" style="background-image: url('./assets/images/services-6.jpg')">
+                <div class="card-content">
+
+                  <p class="card-subtitle">Construction Cleaning</p>
+
+                  <h3 class="h3 card-title">Clear away debris and dust to reveal the beauty of your newly constructed space.</h3>
 
                   <span class="btn-link">
                     <span>View Project</span>
@@ -470,7 +508,7 @@ to meet your unique needs.
                     <h3 class="contact-item-title">Address</h3>
 
                     <address class="contact-item-link">
-                      20, London, United Kingdom
+                      JKANFJKAKNFA
                     </address>
                   </div>
 
@@ -485,7 +523,7 @@ to meet your unique needs.
                   <div>
                     <h3 class="contact-item-title">Email</h3>
 
-                    <a href="mailto:hello@ethan.com" class="contact-item-link">hello@ethan.com</a>
+                    <a href="mailto:hello@ethan.com" class="contact-item-link">EMAIL@EMAIL.COM</a>
                   </div>
 
                 </li>
@@ -499,7 +537,7 @@ to meet your unique needs.
                   <div>
                     <h3 class="contact-item-title">Phone</h3>
 
-                    <a href="tel:+1234567890" class="contact-item-link">+123 456 7890</a>
+                    <a href="#" class="contact-item-link">045454054</a>
                   </div>
 
                 </li>
@@ -524,9 +562,9 @@ to meet your unique needs.
       <section class="section blog" id="blog">
         <div class="container">
 
-          <p class="section-subtitle">Latest News</p>
+          <p class="section-subtitle">ASDA</p>
 
-          <h2 class="h2 section-title">Checkout My Recent Blogs</h2>
+          <h2 class="h2 section-title">ASDASDAD</h2>
 
           <p class="section-text">
             Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
@@ -544,10 +582,10 @@ to meet your unique needs.
                   </a>
                 </figure>
 
-                <a href="#" class="card-tag">Web Development</a>
+                <a href="#" class="card-tag">ASDASDDA</a>
 
                 <h3 class="card-title">
-                  <a href="#">Jim Morisson Says when the musics over turn off the light</a>
+                  <a href="#">ASDASDAD</a>
                 </h3>
 
               </div>
@@ -563,10 +601,10 @@ to meet your unique needs.
                   </a>
                 </figure>
 
-                <a href="#" class="card-tag">Web Development</a>
+                <a href="#" class="card-tag">ASDASD</a>
 
                 <h3 class="card-title">
-                  <a href="#">Jim Morisson Says when the musics over turn off the light</a>
+                  <a href="#">ASDAFAASDFSDGFCVSDFVSDFGS</a>
                 </h3>
 
               </div>
@@ -582,10 +620,10 @@ to meet your unique needs.
                   </a>
                 </figure>
 
-                <a href="#" class="card-tag">Web Development</a>
+                <a href="#" class="card-tag">ZXCSADFASF</a>
 
                 <h3 class="card-title">
-                  <a href="#">Jim Morisson Says when the musics over turn off the light</a>
+                  <a href="#">ETSDFFVSEFES</a>
                 </h3>
 
               </div>
@@ -611,7 +649,7 @@ to meet your unique needs.
     <div class="container">
 
       <p class="copyright">
-        &copy; 2022 <a href="#" class="copyright-link">codewithsadee</a>. All Rights Reseverd
+        &copy; 2024 <a href="#" class="copyright-link">ASDASDA</a>. All Rights Reseverd
       </p>
 
       <ul class="footer-list">
