@@ -129,7 +129,7 @@
           <div class="hero-content">
 
             <h2 class="hero-title">
-              <span>JSFJDFJNFJDF!</span>
+              <span>Welcome to Palinis Po!</span>
               <strong>Your Trusted<br>Home Cleaning Partner</strong>
             </h2>
 
