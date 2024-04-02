@@ -374,7 +374,7 @@ to meet your unique needs.
       <!-- 
         - #SKILLS
       -->
-
+<!-- 
       <section class="section skills" id="skills">
         <div class="container">
 
@@ -463,7 +463,7 @@ to meet your unique needs.
           </ul>
 
         </div>
-      </section>
+      </section> -->
 
 
 

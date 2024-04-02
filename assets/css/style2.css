@@ -365,8 +365,8 @@ body {
   font-size: 5.3rem;
   font-weight: inherit;
   margin-block-end: 8px;
-  color: #a3ddff;
-  text-shadow: 2px 2px 4px rgba(26, 26, 26, 0.575);
+  color: #042d44;
+  text-shadow: 2px 2px 4px rgba(126, 126, 126, 0.575);
 }
 
 .hero-text { margin-block-end: 25px; }
@@ -467,7 +467,7 @@ body {
 .services-list > li:nth-child(even) .card-content { margin-inline-start: auto; }
 
 .card-content{
-  background-color: rgba(0, 0, 0, 0.274);
+  background-color: rgba(0, 0, 0, 0.411);
   padding: 16px;
   border-radius: 16px;
 }
